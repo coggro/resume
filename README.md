@@ -4,8 +4,6 @@
 
 ## Education
 
----
-
 ### **Bellevue University**
 
 ### _Software Development Accelerated Cohort_
@@ -31,8 +29,6 @@ _Graduated May 2007_
 <br /><br />
 
 ## Work Experience
-
----
 
 ### DICE Group and IS&T at Thomas Jefferson University Hospital
 
@@ -151,8 +147,6 @@ _February 2013 to July 2013_
 
 ## Skills
 
----
-
 Adobe Experience Manager (AEM),
 Bootstrap,
 CSS,
@@ -166,8 +160,6 @@ styled-components
 <br /><br />
 
 ## Interests
-
----
 
 Baking,
 Board Games (Bardsung, Gloomhaven, Good Dog Bad Zombie, Here To Slay, Spirit Island, etc),
@@ -183,8 +175,6 @@ Video Games (PC, PS4, Switch)
 <br /><br />
 
 ## Fun Facts
-
----
 
 - I was once on stage crew for our high school's musical in 8th grade and a steel pole holding a stage curtain fell and grazed me on the ear. A few inches over and I would have been eating from a straw for the rest of my life, according to the doctor. I later played Reverend Shaw in Footloose and Professor Harold Hill in The Music Man on the same stage.
 - My wife and I have a goldendoodle named August Adventure Gross-Lewin, CGC. "Adventure" is **literally** his middle name. The CGC stands for "Canine Good Citizen," an obedience certification he achieved through the American Kennel Club. He has his own Instagram account - [@augustadventuredog](https://www.instagram.com/augustadventuredog/). We're fully obnoxious about him. He makes an excellent office dog, _wink, wink_.
