@@ -36,10 +36,11 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _April 2019 to Present_
 
-- Joined the TJUH team as a Web Developer
+- Joined the DICE team as a Web Developer
 - Continued to produce high-end web experiences for their still-expanding offerings
-- Built multiple projects in AEM and React to design team specifications
-- Built several scripts and tools to expedite development, like a new component scaffolding tool
+- Built multiple projects in AEM and React to design team specifications, including full site builds for their Marcus Institute, Specialty Care Pavilion, an internal departmental site, a mindfulness mediation app, and more
+- Built several scripts and tools to expedite development, including a new component scaffolding tool that would clone AEM component directories and perform text replacement tasks on them that had previously been performed manually
+- Built workflow documentation for frequent publishing workflows to aid in onboarding new team members
 
 ---
 
@@ -49,8 +50,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _December 2018 to March 2019_
 
-- Contracted with DICE Group at Thomas Jefferson University Hospital through TekSystems
+- Contracted as a Front-End Deceloper with DICE Group at Thomas Jefferson University Hospital through TekSystems
 - Provided front end web solutions for TJUH's rapidly expanding offerings
+- Learned to develop new sites with Adobe Experience Manager, a Content Management System (CMS) with which I'd never had previous experience
 
 ---
 
@@ -61,9 +63,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 ##### _January 2018 to October 2018_
 
 - Contracted with TN State Parks through Knowledge Services
-- Upgraded their web site to the newest version of EE and performed additional development tasks
-- Continued in this role to develop many new features and further improve site organization and performance
-- Developed a JSON API out of ExpressionEngine to feed site information to a then-upcoming mobile application
+- Upgraded their web site to the newest version of ExpressionEngine (EE) with time to spare on my contract. Continued to perform additional development tasks to further improve user experience
+- Was brought on in a full-time capacity to develop many new features and further improve site organization and performance
+- Developed a JSON API out of EE to feed site information to a then-upcoming mobile application including map data, lists of available activities, site content, and more
 
 ---
 
@@ -76,8 +78,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _October 2017 to December 2017_
 
-- Modified and deployed a new e-commerce website
-- Helped establish new task management and support helpdesk workflows
+- Aided SHS's burgeoning IT team as the first developer they'd ever hired
+- Modified and deployed a new e-commerce website by liaising with 3rd party CMS developers
+- Helped establish new task management and support helpdesk workflows to support customers during the launch of their new web store
 
 ---
 
@@ -99,9 +102,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 ##### _March 2016 to June 2017_
 
 - Built client sites to design specifications
-- Integrated client site designs into EE
+- Integrated client site designs into ExpressionEngine (EE)
 - Myriad other development tasks from entering content to performing SEO tuneups
-- At one point developed a Python script to scrape zips of images for hundreds of products from a client site and unzip them into labeled folders, a task assigned to me for at least a month; turned it into a few days of script writing and bug fixing with overnight executions
+- Developed a Python script to scrape zips of images for hundreds of products from a client site and unzip them into labeled folders, a task assigned to me for at least a month; turned it into a few days of script writing and bug fixing with overnight executions
 
 ---
 
