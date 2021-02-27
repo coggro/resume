@@ -4,8 +4,6 @@
 
 ## Education
 
-<hr class="gold" />
-
 ### **Bellevue University**
 
 #### _Software Development Accelerated Cohort_
@@ -31,8 +29,6 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 <br /><br />
 
 ## Work Experience
-
-<hr class="gold" />
 
 ### DICE Group and IS&T at Thomas Jefferson University Hospital
 
@@ -151,8 +147,6 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ## Skills
 
-<hr class="gold" />
-
 Adobe Experience Manager (AEM),
 Bootstrap,
 CSS,
@@ -167,8 +161,6 @@ styled-components
 <br /><br />
 
 ## Interests
-
-<hr class="gold" />
 
 Baking,
 Board Games (Bardsung, Gloomhaven, Good Dog Bad Zombie, Here To Slay, Spirit Island, etc),
@@ -185,8 +177,6 @@ Video Games (PC, PS4, Switch)
 
 ## Fun Facts
 
-<hr class="gold" />
-
-- I was working on the stage crew for our high school's musical in 8th grade when a steel pole holding a stage curtain fell and grazed me on the ear. A few inches over and I would have been eating from a straw for the rest of my life, according to the doctor. I later played Reverend Shaw in Footloose and Professor Harold Hill in The Music Man on the same stage.
+- I was working on the stage crew for our high school's musical in 8th grade and a steel pole holding a stage curtain fell and grazed me on the ear. A few inches over and I would have been eating from a straw for the rest of my life, according to the doctor. I later played Reverend Shaw in Footloose and Professor Harold Hill in The Music Man on the same stage.
 - My wife and I have a goldendoodle named August Adventure Gross-Lewin, CGC. "Adventure" is **literally** his middle name. The CGC stands for "Canine Good Citizen," an obedience certification he achieved through the American Kennel Club. He has his own Instagram account - [@augustadventuredog](https://www.instagram.com/augustadventuredog/). We're fully obnoxious about him. He makes an excellent office dog - _wink, wink_.
 - Prior to COVID, I could handle a handful of recipes; over the course of the pandemic, I've been making loads of recipes from The Food Lab and Bravetart and learning loads of additional cooking techniques. I can make some pretty great food now - sous vide cheeseburgers, homemade marshmallows, the best snickerdoodles I've ever eaten, and more. Next up is fresh, homemade bread.
