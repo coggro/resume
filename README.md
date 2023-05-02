@@ -153,7 +153,15 @@ _February 2013 to July 2013_
 
 ---
 
-HTML, CSS, JS, AEM, React, Sass, styled-components, Bootstrap, ExpressionEngine (EE), Adobe Experience Manager (AEM),
+Adobe Experience Manager (AEM),
+Bootstrap,
+CSS,
+ExpressionEngine (EE),
+HTML,
+JS,
+React,
+Sass,
+styled-components
 
 <br /><br />
 
