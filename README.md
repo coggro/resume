@@ -36,11 +36,14 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _April 2019 to Present_
 
-- Joined the DICE team as a Web Developer
-- Continued to produce high-end web experiences for their still-expanding offerings
-- Built multiple projects in AEM and React to design team specifications, including full site builds for their Marcus Institute, Specialty Care Pavilion, an internal departmental site, a mindfulness mediation app, and more
-- Built several scripts and tools to expedite development, including a new component scaffolding tool that would clone AEM component directories and perform text replacement tasks on them that had previously been performed manually
-- Built workflow documentation for frequent publishing workflows to aid in onboarding new team members
+- Joined the DICE team as a Web Developer.
+- Continued to produce high-end web experiences for their still-expanding offerings.
+- Built and maintained multiple projects in AEM and React to design team specifications, including full site builds for their Marcus Institute and Specialty Care Pavilion projects, an internal departmental site, a mindfulness mediation app, and more.
+- Helped keep applications updated and running through the COVID pandemic and an internal transition from DICE to IS&T.
+- Built several scripts and tools to expedite development, including an AEM component scaffolding tool that would clone default component directories and perform text replacement tasks on them that had previously been performed manually.
+- Wrote documentation for frequent publishing workflows to aid in onboarding new team members. Advocated for increased and standardized documentation to further ease onboarding and ongoing operations.
+
+Key Technologies: Git, Adobe Experience Manager, Node, React, Gatsby, Styled-Components, Web Fundamentals (HTML, CSS, JS)
 
 ---
 
@@ -50,9 +53,11 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _December 2018 to March 2019_
 
-- Contracted as a Front-End Deceloper with DICE Group at Thomas Jefferson University Hospital through TekSystems
-- Provided front end web solutions for TJUH's rapidly expanding offerings
-- Learned to develop new sites with Adobe Experience Manager, a Content Management System (CMS) with which I'd never had previous experience
+- Contracted as a Front-End Deceloper with DICE Group at Thomas Jefferson University Hospital through TekSystems.
+- Provided front-end web solutions for TJUH's rapidly expanding offerings.
+- Learned to develop new sites with Adobe Experience Manager, a Content Management System (CMS) with which I'd never had previous experience.
+
+Key Technologies: Git, Adobe Experience Manager, Web Fundamentals (HTML, CSS, JS)
 
 ---
 
@@ -62,10 +67,12 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _January 2018 to October 2018_
 
-- Contracted with TN State Parks through Knowledge Services
-- Upgraded their web site to the newest version of ExpressionEngine (EE) with time to spare on my contract. Continued to perform additional development tasks to further improve user experience
-- Was brought on in a full-time capacity to develop many new features and further improve site organization and performance
-- Developed a JSON API out of EE to feed site information to a then-upcoming mobile application including map data, lists of available activities, site content, and more
+- Contracted with TN State Parks through Knowledge Services.
+- Upgraded their web site to the newest version of ExpressionEngine (EE) with time to spare on my contract. Continued to perform additional development tasks to further improve user experience.
+- Was brought on in a full-time capacity to develop many new features and further improve site organization and performance.
+- Developed a JSON API out of EE to feed site information to a then-upcoming mobile application including map data, lists of available activities, site content, and more.
+
+Key Technologies: ExpressionEngine, PHP, Python, Node, Web Fundamentals (HTML, CSS, JS)
 
 ---
 
@@ -78,9 +85,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _October 2017 to December 2017_
 
-- Aided SHS's burgeoning IT team as the first developer they'd ever hired
-- Modified and deployed a new e-commerce website by liaising with 3rd party CMS developers
-- Helped establish new task management and support helpdesk workflows to support customers during the launch of their new web store
+- Aided SHS's burgeoning IT team as the first developer they'd ever hired.
+- Modified and deployed a new e-commerce website by liaising with 3rd party CMS developers.
+- Helped establish new task management and support helpdesk workflows to support customers during the launch of their new web store.
 
 ---
 
@@ -101,10 +108,10 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _March 2016 to June 2017_
 
-- Built client sites to design specifications
-- Integrated client site designs into ExpressionEngine (EE)
-- Myriad other development tasks from entering content to performing SEO tuneups
-- Developed a Python script to scrape zips of images for hundreds of products from a client site and unzip them into labeled folders, a task assigned to me for at least a month; turned it into a few days of script writing and bug fixing with overnight executions
+- Built client sites to design specifications.
+- Integrated client site designs into ExpressionEngine (EE).
+- Myriad other development tasks from entering content to performing SEO tuneups.
+- Developed a Python script to scrape zips of images for hundreds of products from a client site and unzip them into labeled folders, a task assigned to me for at least a month; turned it into a few days of script writing and bug fixing with overnight executions.
 
 ---
 
@@ -114,9 +121,9 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _June 2015 to December 2015_
 
-- Worked on a company-wide project cleanup effort
-- Pulled data from an Oracle database, analyzed projects, and took action according to specific criteria and interviews with project managers
-- In addition to project analysis, I also surveyed project managers regarding reporting strategies for a separate ongoing initiative
+- Worked on a company-wide project cleanup effort.
+- Pulled data from an Oracle database, analyzed projects, and took action according to specific criteria and interviews with project managers.
+- In addition to project analysis, I also surveyed project managers regarding reporting strategies for a separate ongoing initiative.
 
 ---
 
@@ -126,10 +133,10 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _September 2013 to May 2015_
 
-- Moved data from scanned files into proprietary software used to analyze risk and determine cost for insuring fleets of motor vehicles
-- Required data manipulation and typing skills
-- Developed seeral specialized tools in Microsoft Excel to organize and analyze data more swiftly than manual methods before being accurately entered
-- Reviewed completed policies for accuracy before issuance
+- Moved data from scanned files into proprietary software used to analyze risk and determine cost for insuring fleets of motor vehicles.
+- Required data manipulation and typing skills.
+- Developed seeral specialized tools in Microsoft Excel to organize and analyze data more swiftly than manual methods before being accurately entered.
+- Reviewed completed policies for accuracy before issuance.
 
 ---
 
@@ -139,10 +146,10 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ##### _February 2013 to July 2013_
 
-- Located and provided consumers with repayment options for overdue financial arrangements
-- Professional, competitive, production-based environment
-- Training required in specialized computer systems, collection/privacy law, and call center production
-- Learned skip tracing and call-center production metrics
+- Located and provided consumers with repayment options for overdue financial arrangements.
+- Professional, competitive, production-based environment.
+- Training required in specialized computer systems, collection/privacy law, and call center production.
+- Learned skip tracing and call-center production metrics.
 
 </details>
 
@@ -155,7 +162,9 @@ Bootstrap,
 CSS,
 ExpressionEngine (EE),
 Gatsby,
+Git,
 HTML,
+Node,
 JS,
 React,
 Sass,
@@ -182,4 +191,4 @@ Video Games (PC, PS4, Switch)
 
 - I was working on the stage crew for our high school's musical in 8th grade and a steel pole holding a stage curtain fell and grazed me on the ear. A few inches over and I would have been eating from a straw for the rest of my life, according to the doctor. I later played Reverend Shaw in Footloose and Professor Harold Hill in The Music Man on the same stage.
 - My wife and I have a goldendoodle named August Adventure Gross-Lewin, CGC. "Adventure" is **literally** his middle name. The CGC stands for "Canine Good Citizen," an obedience certification he achieved through the American Kennel Club. He has his own Instagram account - [@augustadventuredog](https://www.instagram.com/augustadventuredog/). We're fully obnoxious about him. He makes an excellent office dog - _wink, wink_.
-- Prior to COVID, I could handle a handful of recipes; over the course of the pandemic, I've been making loads of recipes from The Food Lab and Bravetart and learning loads of additional cooking techniques. I can make some pretty great food now - sous vide cheeseburgers, homemade marshmallows, the best snickerdoodles I've ever eaten, and more. Next up is fresh, homemade bread.
+- Prior to COVID, I could handle a handful of recipes; over the course of the pandemic, I've been making loads of recipes from The Food Lab and Bravetart and learning loads of additional cooking techniques. I can make some pretty great food now - sous vide steaks and cheeseburgers, homemade marshmallows, the best snickerdoodles I've ever eaten, and more. Next up is fresh, homemade bread.
