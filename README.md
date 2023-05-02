@@ -8,7 +8,9 @@
 
 ### **Bellevue University**
 
-### _Software Development Accelerated Cohort - Graduated April 2017_
+### _Software Development Accelerated Cohort_
+
+### _Graduated April 2017_
 
 Completed with a 3.861 GPA. While attending, I administrated a Slack team, small Wiki, and GitHub organization for my peers, and earned placement on the Dean's List for my entire Bellevue career.
 
@@ -18,13 +20,13 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 
 ### _B.A., English Literature and English Writing (Fiction)_
 
-Graduated May 2012
+### _Graduated May 2012_
 
 ---
 
-## Lower Moreland High School
+### Lower Moreland High School
 
-Graduated May 2007
+### _Graduated May 2007_
 
 <br /><br />
 
