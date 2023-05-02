@@ -62,6 +62,9 @@ Contracted with TN State Parks through Knowledge Services to help upgrade their 
 
 ---
 
+<details>
+  <summary>Click for Unabridged Work Experience</summary>
+
 ### Southern Hobby Supply
 
 ### _Software Engineer and Developer - Nashville, TN_
@@ -119,6 +122,8 @@ Moved data from scanned files into proprietary software used to analyze risk and
 ### _February 2013 to July 2013_
 
 Located and provided consumers with repayment options for overdue financial arrangements. Professional, competitive, production-based environment. Training required in specialized computer systems, collection/privacy law, and call center production. Learned skip tracing and call-center production metrics.
+
+</details>
 
 <br /><br />
 
