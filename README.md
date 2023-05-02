@@ -53,7 +53,7 @@ Key Technologies: Git, Adobe Experience Manager, Node, React, Gatsby, Styled-Com
 
 ##### _December 2018 to March 2019_
 
-- Contracted as a Front-End Deceloper with DICE Group at Thomas Jefferson University Hospital through TekSystems.
+- Contracted as a Front-End Developer with DICE Group at Thomas Jefferson University Hospital through TekSystems.
 - Provided front-end web solutions for TJUH's rapidly expanding offerings.
 - Learned to develop new sites with Adobe Experience Manager, a Content Management System (CMS) with which I'd never had previous experience.
 
