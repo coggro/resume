@@ -41,6 +41,8 @@ Completed with a 3.861 GPA. While attending, I administrated a Slack team, small
 - Document and demonstrate new and changed functionality for the benefit of authors and other developers.
 - Work towards and complete annual goals for certification and continuing education on topics like advanced AEM techniques, Angular, OWASP threats, AWS/Azure, etc.
 - Work in Agile, team-oriented environment. To that end, I developed a utility to interpolate Jira ticket links in daily scrum messages using raw HTML/CSS/JS, currently hosted at [https://www.coreyhgross.com/scrumlinkutility](https://www.coreyhgross.com/scrumlinkutility).
+- To aid in our a11y (accessibility) efforts, I duplicated an existing color contrast tool so I could add query string parameter functionality. This allowed us to programmatically create links to comparisons of specific color combinations in our a11y Excel sheets. This is currently hosted at [https://www.coreyhgross.com/a11ycolortool](https://www.coreyhgross.com/a11ycolortool)
+- Created a tool that took in selectors from Lighthouse audits and spat out regexes to search through our entire codebase in VSCode for occurrences to help find problem components. This is currently hosted at [https://www.coreyhgross.com/selectorsearchstringstarter](https://www.coreyhgross.com/selectorsearchstringstarter)
 
 Key Technologies: Git, Adobe Experience Manager, Web Fundamentals (HTML, CSS, JS), Angular, Node, TypeScript
 
