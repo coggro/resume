@@ -5,7 +5,7 @@ file formats did not include MD files and it doesn't adapt nicely to PDF, but
 it's an information-dense and developer-forward resume format.
 -->
 
-# Corey H Gross - Front-End Web Developer
+# Corey H Gross - Web Developer
 
 <br />
 
@@ -25,15 +25,16 @@ it's an information-dense and developer-forward resume format.
 
 ##### _October 2021 to Present_
 
-- Maintain multiple projects in AEM and Angular and develop new components for key initiatives, including a Sustainer Lightbox to help convert one time donations to sustaining monthly donations and implementing an employer matching widget that brought in upwards of $90k of revenue in 2 weeks.
+- Maintain multiple projects in AEM and Angular and develop new components for key initiatives, including a Sustainer Lightbox to help convert one time donations to sustaining monthly donations and an employer matching widget that brought in upwards of $90k of revenue in 2 weeks.
 - Lead Web Performance meetings to monitor SEO and performance optimization.
 - Document and demonstrate new and changed functionality for the benefit of authors and other developers.
 - Work towards and complete annual goals for certification and continuing education on topics like advanced AEM techniques, Angular, OWASP threats, AWS/Azure, etc.
+- Used Puppeteer and Lighthouse Node.js packages to streamline and automate performance and accessibility auditing across workflows requiring heavy user interaction, eliminating hours of manual testing.
 - Work in Agile, team-oriented environment. To that end, I developed a utility to interpolate Jira ticket links in daily scrum messages using raw HTML/CSS/JS, currently hosted at [https://www.coreyhgross.com/scrumlinkutility](https://www.coreyhgross.com/scrumlinkutility).
 - To aid in our a11y (accessibility) efforts, I duplicated an existing color contrast tool so I could add query string parameter functionality. This allowed us to programmatically create links to comparisons of specific color combinations in our a11y Excel sheets. This is currently hosted at [https://www.coreyhgross.com/a11ycolortool](https://www.coreyhgross.com/a11ycolortool)
 - Created a tool that took in selectors from Lighthouse audits and spat out regexes to search through our entire codebase in VSCode for occurrences to help find problem components. This is currently hosted at [https://www.coreyhgross.com/selectorsearchstringstarter](https://www.coreyhgross.com/selectorsearchstringstarter)
 
-Key Technologies: Git, Adobe Experience Manager, Web Fundamentals (HTML, CSS, JS), Angular, Node, TypeScript
+Key Technologies: Git, Adobe Experience Manager, Web Fundamentals (HTML, CSS, JS), Angular, Node, Puppeteer, Lighthouse, TypeScript
 
 ---
 
@@ -92,8 +93,9 @@ Cypress,
 Gatsby,
 Git,
 HTML,
-Node,
 JS,
+Node,
+Puppeteer,
 React,
 Sass,
 styled-components
